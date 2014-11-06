@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello");
         int a = 0;
         a++;
+        a--;
         int b;
     }
 }
