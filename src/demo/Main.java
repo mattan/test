@@ -8,6 +8,7 @@ public class Main {
         int a = 0;
         a++;
         a--;
-        int b;
+        int b = 0;
+        System.out.println(a - a + b);
     }
 }
